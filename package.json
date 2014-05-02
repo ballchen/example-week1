@@ -1,14 +1,11 @@
 {
-  "name": "example-week1",
+  "name": "app",
   "version": "0.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "app2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "BSD",
-  "dependencies": {
-    "request": "~2.34.0"
-  }
+  "license": "ISC"
 }
